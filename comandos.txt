@@ -15,3 +15,9 @@ sudo docker rmi kubia-csharp -f
 
 #borrar container
 sudo docker rm kubia-csharp-container
+
+#ver detalles del container
+sudo docker inspect kubia-csharp-container
+
+#correr shell dentro del contenedores
+sudo docker exec -it kubia-csharp-container bash
