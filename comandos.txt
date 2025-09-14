@@ -1,5 +1,5 @@
 #compilar
-sudo docker build -t kubia-csharp .
+sudo docker build -t webserver  .
 
 #listar imagenes
 sudo docker images
@@ -11,16 +11,16 @@ sudo docker ps
 sudo docker ps -a
 
 #borrar imagen y contenedores 
-sudo docker rmi kubia-csharp -f
+sudo docker rmi webserver -f
 
 #borrar container
-sudo docker rm kubia-csharp-container
+sudo docker rm webserver-container
 
 #ver detalles del container
-sudo docker inspect kubia-csharp-container
+sudo docker inspect webserver-container
 
 #correr shell dentro del contenedores
-sudo docker exec -it kubia-csharp-container bash
+sudo docker exec -it webserver-container bash
 
 una vez dentro instalar el ps para ver los procesos en ejecución
 apt-get update
