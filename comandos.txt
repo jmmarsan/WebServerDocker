@@ -21,3 +21,6 @@ sudo docker inspect kubia-csharp-container
 
 #correr shell dentro del contenedores
 sudo docker exec -it kubia-csharp-container bash
+
+#ver detalles del contenedor
+sudo docker inspect kubia-csharp-container
