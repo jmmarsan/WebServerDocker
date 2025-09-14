@@ -1,0 +1,5 @@
+/home/admin/Downloads/docker_csharp/out/WebServerDocker
+/home/admin/Downloads/docker_csharp/out/WebServerDocker.dll
+/home/admin/Downloads/docker_csharp/out/WebServerDocker.deps.json
+/home/admin/Downloads/docker_csharp/out/WebServerDocker.runtimeconfig.json
+/home/admin/Downloads/docker_csharp/out/WebServerDocker.pdb

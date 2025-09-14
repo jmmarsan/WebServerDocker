@@ -1,0 +1,15 @@
+/home/admin/Downloads/docker_csharp/bin/Release/net5.0/WebServerDocker
+/home/admin/Downloads/docker_csharp/bin/Release/net5.0/WebServerDocker.deps.json
+/home/admin/Downloads/docker_csharp/bin/Release/net5.0/WebServerDocker.runtimeconfig.json
+/home/admin/Downloads/docker_csharp/bin/Release/net5.0/WebServerDocker.runtimeconfig.dev.json
+/home/admin/Downloads/docker_csharp/bin/Release/net5.0/WebServerDocker.dll
+/home/admin/Downloads/docker_csharp/bin/Release/net5.0/WebServerDocker.pdb
+/home/admin/Downloads/docker_csharp/obj/Release/net5.0/WebServerDocker.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Downloads/docker_csharp/obj/Release/net5.0/WebServerDocker.AssemblyInfoInputs.cache
+/home/admin/Downloads/docker_csharp/obj/Release/net5.0/WebServerDocker.AssemblyInfo.cs
+/home/admin/Downloads/docker_csharp/obj/Release/net5.0/WebServerDocker.csproj.CoreCompileInputs.cache
+/home/admin/Downloads/docker_csharp/obj/Release/net5.0/WebServerDocker.dll
+/home/admin/Downloads/docker_csharp/obj/Release/net5.0/refint/WebServerDocker.dll
+/home/admin/Downloads/docker_csharp/obj/Release/net5.0/WebServerDocker.pdb
+/home/admin/Downloads/docker_csharp/obj/Release/net5.0/WebServerDocker.genruntimeconfig.cache
+/home/admin/Downloads/docker_csharp/obj/Release/net5.0/ref/WebServerDocker.dll

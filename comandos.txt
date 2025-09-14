@@ -1,0 +1,17 @@
+#compilar
+sudo docker build -t kubia-csharp .
+
+#listar imagenes
+sudo docker images
+
+#ver imagenes en ejecución
+sudo docker ps
+
+#ver imagenes en ejecución con detenidas
+sudo docker ps -a
+
+#borrar imagen y contenedores 
+sudo docker rmi kubia-csharp -f
+
+#borrar container
+sudo docker rm kubia-csharp-container
