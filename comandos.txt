@@ -31,3 +31,6 @@ ps aux
 
 #tag image
 sudo docker tag jmmarsan.webserver jmmarsan/webserver
+
+#push image to dockerhub
+docker push jmmarsan/webserver
