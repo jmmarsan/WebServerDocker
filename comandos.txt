@@ -28,3 +28,6 @@ apt-get install -y procps
 
 ver procesos corriendo
 ps aux
+
+#tag image
+sudo docker tag jmmarsan.webserver jmmarsan/webserver
