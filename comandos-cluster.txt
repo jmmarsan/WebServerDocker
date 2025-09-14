@@ -1,0 +1,4 @@
+#Instalar minikube
+sudo -s
+  snap install docker
+  snap install minikube
