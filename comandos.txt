@@ -22,5 +22,9 @@ sudo docker inspect kubia-csharp-container
 #correr shell dentro del contenedores
 sudo docker exec -it kubia-csharp-container bash
 
-#ver detalles del contenedor
-sudo docker inspect kubia-csharp-container
+una vez dentro instalar el ps para ver los procesos en ejecución
+apt-get update
+apt-get install -y procps
+
+ver procesos corriendo
+ps aux
